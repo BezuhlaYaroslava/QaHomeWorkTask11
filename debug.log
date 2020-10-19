@@ -1,0 +1,16 @@
+[1017/160403.610:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1017/170000.476:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1017/181543.499:ERROR:process_info.cc(359)] UncheckedAllocate
+[1017/182500.686:ERROR:process_info.cc(359)] UncheckedAllocate
+[1017/182502.034:ERROR:process_info.cc(359)] UncheckedAllocate
+[1017/182524.034:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\work\AppData\Local\Temp\scoped_dir4792_568404030\Crashpad\reports\ad8c571f-bcb2-4834-8f3b-d91fa424364c.dmp: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом. (0x20)
+[1017/182909.683:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1017/183548.794:ERROR:process_info.cc(359)] UncheckedAllocate
+[1018/201118.701:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1018/201131.461:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1018/201142.615:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1018/211948.925:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1018/212007.281:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1019/115945.011:ERROR:crash_report_database_win.cc(609)] CreateDirectory C:\Users\work\AppData\Local\Temp\scoped_dir7488_904241709\Crashpad: Недостаточно места на диске. (0x70)
+[1019/115945.017:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[1019/115945.017:ERROR:crash_report_database_win.cc(609)] CreateDirectory C:\Users\work\AppData\Local\Temp\scoped_dir7488_904241709\Crashpad: Недостаточно места на диске. (0x70)
